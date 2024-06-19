@@ -16,7 +16,15 @@ Update this !!!
 ### View our criteria [here]() <!-- Add criteria.md here -->
 
 ## Basic
-### Password manager
+### Password Manager
+
+**🚫 Avoid**
+- LastPass
+- Google Password Manager
+- Dashlane
+
+**✅ Better alternatives**
+
 
 - [Bitwarden](https://bitwarden.com) **widely used**
 - [Keepass](https://keepass.info/) **best offline option**
@@ -28,6 +36,28 @@ Update this !!!
 - [Proton Pass](https://proton.me/pass) **reliable option**
 
 Author recommendation:  
-**"I personally use Keepass because it offers greater transparency and control over my data. Bitwarden is a highly reliable and convenient alternative."**
+_"I personally use Keepass because it offers greater transparency and control over my data. Bitwarden is a highly reliable and convenient alternative."_
 
-Criteria
+**[More about Passwords Managers]()**
+### Mail Providers
+**🚫 Avoid**
+- Gmail
+- Outlook
+- Yahoo! Mail 
+
+<!-- >Add links here-->
+
+**✅ Better alternatives**
+- [Proton Mail]()
+- [Tuta]()
+- [Mailfence]()
+- [StartMail]()
+
+Author recommendation:  
+_"The most anonymous option is to self-host. I will list some software that can assist you below. Among these options, Proton Mail stands out, offering a good free plan. Each has its advantages and disadvantages that should be considered."_
+
+<!-- Must be reviewed -->
+
+**Tools to self-host**
+- [Mox]()
+- [Mail-in-a-box]()
